@@ -7,7 +7,6 @@ PESI is unique for taking sample by a fine needle, which is fine enough to minim
 To start bacterial matching, you need PESI data exported from LabSolutions. If you have any, just run the python script. If you have none, just ask me.
 Please contact me on GitHub if you have any questions or requests. 
 
----
 
 ###Reference
 Sorry. Reference part is still under construction.
